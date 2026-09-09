@@ -9,3 +9,6 @@
 **Misol uchun: Murakkab tushunchalarni sodda tilda tushuntirib beradi.**
 *Qiyin Vazifalarni Bajarish: Mantiqiy masalalar, dasturlash va hisob-kitoblarda ko'maklashadi.
 *Sun'iy intellekt inson o'rnini to'liq egallamaydi, balki uning imkoniyatlarini kengaytiruvchi kuchli qurol vazifasini o'taydi.
+  
+
+  [Bosh sahifaga o'tish](https://example.com)
