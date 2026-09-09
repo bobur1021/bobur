@@ -11,4 +11,4 @@
 *Sun'iy intellekt inson o'rnini to'liq egallamaydi, balki uning imkoniyatlarini kengaytiruvchi kuchli qurol vazifasini o'taydi.
   
 
-  [Bosh sahifaga o'tish](https://example.com)
+  [AI Lesson rasmiy sahifasi](https://openai.com)
